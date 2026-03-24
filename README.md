@@ -124,8 +124,6 @@ Before exams, review only:
 
 # 0580 IGCSE Mathematics Syllabus (Extended highlighted)
 
-> *Extended part is high‑lighted*
-
 ## 1. 数 (Number)
 
 ### 1.1 数的类型 (Types of number)
