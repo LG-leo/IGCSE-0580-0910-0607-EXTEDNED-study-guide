@@ -107,9 +107,7 @@ Before exams, review only:
 | Symbol | Meaning |
 |--------|---------|
 | `[EXTENDED ONLY]` | This content is required only for Extended candidates (grades A*–C). Core candidates may skip. |
-| `Note` | A helpful reminder or common pitfall. |
 | `Common Mistake !` | Errors that students often make – read carefully! |
-| `Key Point //` | Essential fact or formula you must memorise. |
 | `Worked Example {}` | Shows you how to apply the knowledge. |
 | `Appendix []` | Cross reference to additional material. |
 
