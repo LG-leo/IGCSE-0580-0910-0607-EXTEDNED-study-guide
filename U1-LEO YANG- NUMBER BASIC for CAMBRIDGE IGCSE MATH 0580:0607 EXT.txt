@@ -1,0 +1,445 @@
+# Cambridge IGCSE Mathematics 0580 (Extended)
+
+## Topic 1: Number – Detailed Study Guide
+
+**TOPIC 1: NUMBER BASICS (Foundation)**
+
+- 1.1 Types of Numbers  
+- 1.2 Powers and Roots  
+- 1.3 Fractions, Decimals, Percentages  
+- 1.4 Standard Form  
+- 1.5 Surds  
+- 1.6 Ratio and Proportion  
+- 1.7 Rates and Percentages  
+- 1.8 Estimation and Bounds  
+
+This guide follows the **2025–2030 syllabus** and is designed for self‑study.  
+It includes definitions, worked examples, common pitfalls, and exam tips.
+
+---
+
+## ★★★ 1.1 Types of Numbers
+
+### Natural Numbers
+**Definition:** The set of counting numbers starting from 1 and increasing by 1 each time.  
+Notation: $\mathbb{N} = \{1, 2, 3, 4, \dots\}$  
+**Key point:** Zero is **NOT** a natural number.  
+**Examples:** $1, 2, 3, 47, 100$  
+**Non‑examples:** $0, -3, \frac12$
+
+### Integers
+**Definition:** Positive and negative whole numbers (including zero).  
+Notation: $\mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}$  
+**Examples:** $-25, 0, 18$  
+**Non‑examples:** $\frac34, 2.5$
+
+### Prime Numbers
+**Definition:** A whole number greater than 1 that has exactly two different factors: 1 and itself.  
+**Smallest prime:** $2$ (the only even prime).  
+**Examples:** $2, 3, 5, 7, 11, 13, 17, 19, 23, 29$  
+**Non‑examples:** $1$ (only one factor), $9$ (factors $1,3,9$), $21$ (factors $1,3,7,21$)
+
+**Exam tip:** You may be asked to express a number as a product of its prime factors, e.g. $72 = 2^3 \times 3^2$.
+
+> **Example:** Express $72$ as a product of its prime factors.  
+> **Solution:**  
+> $72 \div 2 = 36$  
+> $36 \div 2 = 18$  
+> $18 \div 2 = 9$  
+> $9 \div 3 = 3$  
+> $3 \div 3 = 1$  
+> So $72 = 2 \times 2 \times 2 \times 3 \times 3 = 2^3 \times 3^2$.
+
+### Square Numbers
+**Definition:** The result of multiplying an integer by itself: $n^2$.  
+**Memorise:** Squares of $1$ to $15$ are essential for non‑calculator papers.
+
+| $n$ | $n^2$ | $n$ | $n^2$ | $n$ | $n^2$ | $n$ | $n^2$ | $n$ | $n^2$ |
+|-----|-------|-----|-------|-----|-------|-----|-------|-----|-------|
+| 1   | 1     | 4   | 16    | 7   | 49    | 10  | 100   | 13  | 169   |
+| 2   | 4     | 5   | 25    | 8   | 64    | 11  | 121   | 14  | 196   |
+| 3   | 9     | 6   | 36    | 9   | 81    | 12  | 144   | 15  | 225   |
+
+**Example:** Write down the value of $\sqrt{169}$.  
+**Answer:** $13$.
+
+### Cube Numbers
+**Definition:** The result of multiplying an integer by itself twice: $n^3$.  
+**Memorise:** Cubes of $1$–$5$ and $10$.
+
+| $n$ | $n^3$ |
+|-----|-------|
+| 1   | 1     |
+| 2   | 8     |
+| 3   | 27    |
+| 4   | 64    |
+| 5   | 125   |
+| 10  | 1000  |
+
+**Example:** Work out $5^2 \times \sqrt{4} = 25 \times 2 = 50$.
+
+### Common Factors and Common Multiples
+**Factors** of a number are integers that divide it exactly.  
+- To find all factors, list pairs: e.g. factors of $24$: $1 \times 24$, $2 \times 12$, $3 \times 8$, $4 \times 6$ → $\{1,2,3,4,6,8,12,24\}$.
+
+**Highest Common Factor (HCF)** of two or more numbers is the largest factor common to all.  
+- Method: list prime factors and take the **lowest power** of each common prime.  
+- **Example:** HCF of $36$ and $48$.  
+  $36 = 2^2 \times 3^2$, $48 = 2^4 \times 3$.  
+  Common primes: $2$ (min power $2$) and $3$ (min power $1$).  
+  HCF $= 2^2 \times 3 = 12$.
+
+**Multiples** of a number are obtained by multiplying it by integers.  
+- Example: multiples of $7$: $7, 14, 21, 28, \dots$
+
+**Lowest Common Multiple (LCM)** is the smallest positive number that is a multiple of all given numbers.  
+- Method: list prime factors and take the **highest power** of each prime.  
+- **Example:** LCM of $36$ and $48$.  
+  Highest power of $2$ is $2^4$, highest power of $3$ is $3^2$.  
+  LCM $= 2^4 \times 3^2 = 16 \times 9 = 144$.
+
+**Exam tip:** HCF and LCM questions often appear in Paper 1 (non‑calculator), so practise prime factorisation.
+
+### Rational Numbers
+**Definition:** Any number that can be expressed as a fraction $\frac{p}{q}$ where $p$ and $q$ are integers, $q \neq 0$.  
+Includes: integers (e.g. $5 = \frac{5}{1}$), terminating decimals (e.g. $0.75 = \frac{3}{4}$), repeating decimals (e.g. $0.\dot{3} = \frac13$).  
+**Examples:** $-\frac27$, $0.125$, $0.\dot{6}$  
+**Non‑examples:** $\pi$, $\sqrt{2}$
+
+### Irrational Numbers
+**Definition:** Numbers that cannot be written as a simple fraction; their decimal expansion is non‑repeating and non‑terminating.  
+**Common examples:** $\pi$, $e$, $\sqrt{2}$, $\sqrt{3}$, $\sqrt{5}$  
+**Note:** $\sqrt{4} = 2$ is rational; only square roots of non‑perfect squares are irrational.
+
+### Reciprocal
+**Definition:** The reciprocal of a number $x$ (where $x \neq 0$) is $\frac{1}{x}$.  
+**Property:** $x \times \frac{1}{x} = 1$.  
+**Examples:** reciprocal of $5$ is $\frac15$; reciprocal of $\frac23$ is $\frac32$; reciprocal of $-4$ is $-\frac14$.  
+**Important:** $0$ has **no** reciprocal.
+
+---
+
+## ★★ 1.2 Sets [EXTENDED ONLY]
+
+### Set Notation
+- $\in$ : "is an element of" (e.g. $3 \in \{1,2,3\}$)  
+- $\notin$ : "is not an element of"  
+- $\subset$ : "is a subset of" (every element of A is also in B)  
+- $\supset$ : "is a superset of" (a set which includes another set or sets)  
+- $\cup$ : union – elements in A **or** B (or both)  
+- $\cap$ : intersection – elements in A **and** B  
+- $A'$ : complement – elements **not** in A (within a universal set)  
+  $A' = \{x \in U \mid x \notin A\}$  
+- $\varnothing$ : empty set – set with no elements  
+- $U$ : universal set – all elements under consideration
+
+### Set Builder Notation
+$\{x : \text{condition}\}$ means "the set of all $x$ such that the condition holds".  
+**Examples:**  
+- $\{x : x \text{ is a prime number}\}$  
+- $\{x : 2 \le x < 5\}$ (the integers $2,3,4$ if the context is integers)
+
+### Venn Diagrams
+- Two sets: two overlapping circles inside a rectangle (universal set).  
+- Three sets (Extended): three overlapping circles, with eight regions.
+
+**Example:** Given $n(U) = 50$, $n(A) = 25$, $n(B) = 20$, $n(A \cap B) = 10$. Find $n(A \cup B)$.  
+$n(A \cup B) = n(A) + n(B) - n(A \cap B) = 25 + 20 - 10 = 35$.  
+Then $n((A \cup B)') = 50 - 35 = 15$.
+
+### Number of Elements
+$n(A)$ denotes the number of elements in set $A$.
+
+**Exam tip:** In Extended papers, you may be asked to use set notation to describe regions or solve problems with two or three sets.
+
+> **Example:**  
+> $A = \{1,2,3,4\}$  
+> $B = \{1,2\}$  
+> $C = \{4,5,6\}$  
+> $2 \in \{1,2\}$; $2 \notin \{4,5,6\}$  
+> $B \subset A$  
+> $A \supset B$  
+> Union $A \cup C = \{1,2,3,4,5,6\}$  
+> Intersection $A \cap C = \{4\}$  
+> Universal set $U = \{1,2,3,4,5\}$  
+> Complement $A' = \{5\}$
+
+---
+
+## ★★★ 1.3 Powers and Roots
+
+### Powers
+A power (or exponent) indicates repeated multiplication: $a^n = a \times a \times \dots \times a$ ($n$ times).  
+- $a^1 = a$  
+- $a^0 = 1$ (for $a \neq 0$)
+
+### Roots
+- **Square root:** $\sqrt{a}$ is the non‑negative number whose square is $a$.  
+  $\sqrt{25} = 5$ (since $5^2 = 25$; the principal root is positive).  
+- **Cube root:** $\sqrt[3]{a}$ is the number whose cube is $a$.  
+  $\sqrt[3]{8} = 2$, $\sqrt[3]{-27} = -3$ (negative cube roots exist).
+
+### Index Laws (Rules of Indices)
+For any non‑zero base $a$ and integers $m, n$:
+- $a^m \times a^n = a^{m+n}$  
+- $a^m \div a^n = a^{m-n}$  
+- $(a^m)^n = a^{mn}$  
+- $a^0 = 1$  
+- $a^{-n} = \frac{1}{a^n}$  
+- $a^{m/n} = (\sqrt[n]{a})^m$ (fractional indices – **Extended only**)
+
+> **Examples:**  
+> $2^3 \times 2^4 = 2^{3+4} = 2^7 = 128$  
+> $5^6 \div 5^2 = 5^{6-2} = 5^4 = 625$  
+> $(3^2)^3 = 3^{2\times3} = 3^6 = 729$  
+> $7^0 = 1$  
+> $4^{-2} = \frac{1}{4^2} = \frac{1}{16}$  
+> $27^{2/3} = (\sqrt[3]{27})^2 = 3^2 = 9$
+
+### Common Pitfalls
+- Forgetting that $a^0 = 1$ (not $0$).  
+- Misapplying index laws when bases are different: $2^3 \times 3^2$ cannot be combined.  
+- Confusing $a^{m/n}$ with $(a^m)^{1/n}$ – they are the same, but careful with negative bases when $n$ is even.
+
+---
+
+## ★★★ 1.4 Fractions, Decimals, Percentages
+
+### Fractions
+- **Proper fraction:** numerator < denominator (e.g. $\frac34$).  
+- **Improper fraction:** numerator ≥ denominator (e.g. $\frac75$).  
+- **Mixed number:** combination of whole number and fraction (e.g. $1\frac25$).
+
+**Converting:**  
+- Improper → mixed: divide numerator by denominator; quotient is whole part, remainder over denominator.  
+  $\frac{17}{5} = 3\frac25$ (since $17 \div 5 = 3$ remainder $2$).  
+- Mixed → improper: whole × denominator + numerator over denominator.  
+  $2\frac37 = \frac{2\times7+3}{7} = \frac{17}{7}$.
+
+### Decimals
+- **Terminating decimal:** ends after a finite number of digits (e.g. $0.25$).  
+- **Recurring decimal:** has a repeating pattern (e.g. $0.\dot{3} = 0.333\ldots$).
+
+**Converting recurring to fraction (Extended):**  
+**Example:** $0.\overline{18}$ (meaning $0.181818\ldots$)  
+Let $x = 0.\overline{18}$  
+Multiply by $100$: $100x = 18.\overline{18}$  
+Subtract: $100x - x = 18.\overline{18} - 0.\overline{18}$ → $99x = 18$  
+$x = \frac{18}{99} = \frac{2}{11}$.
+
+### Percentages
+A percentage is a fraction with denominator $100$: $x\% = \frac{x}{100}$.
+
+**Calculations:**  
+- Find a percentage: $15\%$ of $80 = \frac{15}{100} \times 80 = 12$.  
+- Express one quantity as a percentage of another: $\frac{12}{80} \times 100\% = 15\%$.  
+- Percentage increase: new = original × $(1 + \frac{r}{100})$.  
+  If price £$50$ increases by $8\%$, new = $50 \times 1.08 = £54$.  
+- Percentage decrease: new = original × $(1 - \frac{r}{100})$.  
+  If price £$50$ decreases by $8\%$, new = $50 \times 0.92 = £46$.  
+- Reverse percentage: find original after a change.  
+  After an $8\%$ increase, price is £$54$. Original = $54 \div 1.08 = £50$.
+
+**Exam tip:** In non‑calculator papers, percentages often involve simple fractions (e.g. $25\% = \frac14$, $12.5\% = \frac18$). Know common conversions.
+
+---
+
+## ★ 1.5 Ordering and Operations
+
+### Inequality Symbols
+- $=$ equal to  
+- $\neq$ not equal to  
+- $>$ greater than  
+- $<$ less than  
+- $\ge$ greater than or equal to  
+- $\le$ less than or equal to
+
+### Order of Operations (BIDMAS / PEMDAS)
+1. **B**rackets / **P**arentheses  
+2. **I**ndices / **E**xponents  
+3. **D**ivision and **M**ultiplication (left to right)  
+4. **A**ddition and **S**ubtraction (left to right)
+
+> **Example:** $3 + 2 \times (4 - 1)^2$  
+> Brackets: $4-1=3$  
+> Indices: $3^2=9$  
+> Multiplication: $2 \times 9 = 18$  
+> Addition: $3+18=21$
+
+> **Example:** Evaluate $8 + 3 \times (5-2)^2$  
+> Brackets: $5-2=3$  
+> Indices: $3^2=9$  
+> Multiplication: $3 \times 9 = 27$  
+> Addition: $8+27=35$
+
+---
+
+## ★★★ 1.6 Standard Form
+
+### Definition
+Standard form (scientific notation) is $A \times 10^n$ where $1 \le A < 10$ and $n$ is an integer.
+
+### Converting Ordinary → Standard Form
+- **Large numbers** ($n$ positive): move decimal left until $A$ is between $1$ and $10$; $n$ = number of places moved.  
+  Example: $450\,000 = 4.5 \times 10^5$ (decimal moved $5$ places left).  
+- **Small numbers** ($n$ negative): move decimal right; $n$ = negative of places moved.  
+  Example: $0.00072 = 7.2 \times 10^{-4}$ (decimal moved $4$ places right).
+
+### Converting Standard Form → Ordinary
+- If $n > 0$, move decimal right $n$ places (add zeros if needed).  
+  $3.2 \times 10^5 = 320\,000$  
+- If $n < 0$, move decimal left $|n|$ places (add zeros before).  
+  $4.5 \times 10^{-3} = 0.0045$
+
+### Calculations with Standard Form (Papers 3 & 4)
+- **Multiplication:** $(A \times 10^m) \times (B \times 10^n) = (A \times B) \times 10^{m+n}$  
+  Adjust if $A \times B$ is not between $1$ and $10$.  
+  Example: $(4 \times 10^3) \times (5 \times 10^4) = 20 \times 10^7 = 2.0 \times 10^8$  
+- **Division:** $(A \times 10^m) \div (B \times 10^n) = (A \div B) \times 10^{m-n}$  
+  Example: $(8 \times 10^7) \div (2 \times 10^3) = 4 \times 10^4$  
+- **Addition/Subtraction:** Convert to the same power first.  
+  Example: $3 \times 10^4 + 2 \times 10^5 = 3 \times 10^4 + 20 \times 10^4 = 23 \times 10^4 = 2.3 \times 10^5$
+
+### Common Mistakes
+- Forgetting to adjust after multiplication/division so that $A$ is between $1$ and $10$.  
+- Trying to add/subtract without equalising powers.  
+- Confusing negative powers: $10^{-3} = 0.001$, **not** $-1000$.
+
+> **Example:** Calculate $(3 \times 10^5) \times (2 \times 10^4)$ and give answer in standard form.  
+> **Solution:** $3 \times 2 = 6$, $10^5 \times 10^4 = 10^{5+4} = 10^9$ → $6 \times 10^9$ (already in standard form).
+
+---
+
+## ★★ 1.7 Estimation and Limits of Accuracy
+
+### Rounding
+- **To a given number of decimal places (d.p.):** look at the next digit; if $\ge 5$, round up.  
+  Example: $3.14159$ to $2$ d.p. = $3.14$ (third digit $1 < 5$).  
+- **To a given number of significant figures (s.f.):** count from the first non‑zero digit.  
+  Example: $0.004567$ to $2$ s.f. = $0.0046$ (first two non‑zero digits are $4$ and $5$, next digit $6 \ge 5$ rounds up).  
+  Example: $45\,678$ to $2$ s.f. = $46\,000$.
+
+### Estimation
+Round each number to $1$ s.f., then perform the calculation.  
+**Example:** Estimate $\frac{41.3}{9.79 \times 0.765}$.  
+Round: $40 \div (10 \times 0.8) = 40 \div 8 = 5$ (actual ≈ $5.5$).
+
+### Limits of Accuracy (Extended)
+When a measurement is given to a certain accuracy, its true value lies within a range.
+
+> **Example:** If a length is given as $12$ cm to the nearest cm, then  
+> lower bound = $11.5$ cm, upper bound = $12.5$ cm (half of the precision = $0.5$ cm).
+
+> **Example:** A length is measured as $8.3$ cm to the nearest $0.1$ cm. Find the lower and upper bounds.  
+> Precision = $0.05$ cm (half of $0.1$).  
+> Lower bound = $8.3 - 0.05 = 8.25$ cm.  
+> Upper bound = $8.3 + 0.05 = 8.35$ cm.
+
+For calculations with bounds (if all quantities are positive):
+- **Addition:** max = UB(A) + UB(B), min = LB(A) + LB(B)  
+- **Subtraction:** max = UB(A) - LB(B), min = LB(A) - UB(B)  
+- **Multiplication:** max = UB(A) × UB(B), min = LB(A) × LB(B)  
+- **Division:** max = UB(A) ÷ LB(B), min = LB(A) ÷ UB(B)
+
+> **Example:** Given that the measured value of $a$ is $8$ cm (accurate to cm) and the measured value of $b$ is $5$ cm (accurate to cm), find the maximum possible value of $a - b$.  
+> UB($a$) = $8.5$, LB($b$) = $4.5$ → max = $8.5 - 4.5 = 4.0$ cm.
+
+> **Example:** A rectangle measures $8$ cm by $5$ cm, each to the nearest cm. Find the maximum possible area.  
+> Length UB = $8.5$, width UB = $5.5$ → max area = $8.5 \times 5.5 = 46.75$ cm².
+
+**Exam tip:** You must state bounds clearly, and in compound problems, identify which combination gives max/min.
+
+---
+
+## ★★ 1.8 Ratio
+
+- A ratio compares quantities. Simplify by dividing all parts by their HCF.  
+  Example: $20:30:40 = 2:3:4$.  
+- **Dividing a quantity in a given ratio:**  
+  If share £$500$ in ratio $2:3$, total parts $= 5$, one part $= 500/5 = 100$.  
+  Shares are $2 \times 100 = 200$ and $3 \times 100 = 300$.
+
+### Rates
+Common rates include:
+- **Speed:** $s = \frac{d}{t}$ (must be memorised)  
+- **Density:** $d = \frac{m}{V}$ (formula given if needed)  
+- **Pressure:** $P = \frac{F}{A}$  
+- **Population density:** $\frac{\text{population}}{\text{area}}$
+
+**Example:** A car travels $45$ km in $3$ hours $45$ minutes. Average speed?  
+Time $= 3 + \frac{45}{60} = 3.75$ h. Speed $= \frac{45}{3.75} = 12$ km/h.
+
+---
+
+## ★★★ 1.9 Percentages (Advanced)
+
+### Simple Interest
+$I = \frac{P \times R \times T}{100}$, where $P$ = principal, $R$ = rate (% per year), $T$ = time (years).  
+Total amount $A = P + I$.
+
+### Compound Interest [EXTENDED ONLY]
+$A = P\left(1 + \frac{r}{100}\right)^n$, where $n$ = number of compounding periods (usually years).
+
+> **Example:** £$1000$ invested at $5\%$ per annum compound for $3$ years:  
+> $A = 1000 \times (1.05)^3 = 1000 \times 1.157625 = £1157.63$ (to nearest penny).
+
+> **Example:** £$2000$ is invested at $4\%$ per annum compound interest for $2$ years. Calculate the total amount after $2$ years.  
+> $A = 2000 \times (1.04)^2 = 2000 \times 1.0816 = £2163.20$.
+
+- **Increase:** $A = P\left(1 + \frac{r}{100}\right)^n$  
+- **Decrease:** $A = P\left(1 - \frac{r}{100}\right)^n$
+
+### Repeated Percentage Change
+- Increase by $r\%$ each year: multiply by $(1 + r/100)$ each time.  
+- Decrease by $r\%$ each year: multiply by $(1 - r/100)$ each time.
+
+### Reverse Percentage
+If a quantity after a $r\%$ increase is known: original $= \frac{\text{final}}{1 + r/100}$.  
+If after a $r\%$ decrease: original $= \frac{\text{final}}{1 - r/100}$.
+
+**Example:** After a $15\%$ increase, a coat costs £$69$. What was the original price?  
+Original $= 69 \div 1.15 = £60$.
+
+### Exponential Growth/Decay [EXTENDED ONLY]
+Modelled by $y = a \times b^x$:
+- $a$ = initial amount  
+- $b$ = growth factor ($b > 1$) or decay factor ($0 < b < 1$)  
+- $x$ = time (often number of periods)
+
+**Example:** A population of $500$ increases by $2\%$ per year. After $5$ years:  
+$y = 500 \times (1.02)^5 \approx 552$.
+
+---
+
+## ★★ 1.10 Surds (Extended only)
+
+### Simplifying Surds
+Factor the number under the root so that one factor is a perfect square.  
+$\sqrt{72} = \sqrt{36 \times 2} = 6\sqrt{2}$.
+
+Combine like surds: $5\sqrt{3} - 2\sqrt{3} = 3\sqrt{3}$.
+
+### Rationalising the Denominator
+- For $\frac{a}{\sqrt{b}}$, multiply numerator and denominator by $\sqrt{b}$:  
+  $\frac{3}{\sqrt{5}} = \frac{3\sqrt{5}}{5}$.
+- For $\frac{1}{c + \sqrt{d}}$, multiply numerator and denominator by the conjugate $c - \sqrt{d}$:  
+  $\frac{1}{2 + \sqrt{3}} = \frac{2 - \sqrt{3}}{(2+\sqrt{3})(2-\sqrt{3})} = \frac{2 - \sqrt{3}}{4 - 3} = 2 - \sqrt{3}$.
+
+**Common Mistake:** Forgetting that $(a + \sqrt{b})(a - \sqrt{b}) = a^2 - b$.
+
+---
+
+## ★★ 1.11 Time and Money
+
+### Time
+- **12‑hour and 24‑hour clock:**  
+  $3.15$ a.m. = $03\,15$, $3.15$ p.m. = $15\,15$.  
+- **Time intervals:**  
+  From $09\,45$ to $14\,20$ is $4$ h $35$ min.  
+- **Time zones:**  
+  If New York is $5$ hours behind London, and it's $14\,00$ in London, it's $09\,00$ in New York.
+
+### Money
+Currency conversion: multiply by exchange rate.  
+If $£1 = \$1.25$, then $£50 = 50 \times 1.25 = \$62.50$.  
+To convert back, divide by the rate.
