@@ -122,7 +122,7 @@ Before exams, review only:
 
 ---
 
-# 0580 IGCSE Mathematics Syllabus (Extended highlighted)
+# 0580 IGCSE Mathematics Syllabus
 
 ## 1. 数 (Number)
 
